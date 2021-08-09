@@ -5,7 +5,7 @@
 
 `0x2341a1cd44e0b1da225f1005917e9a50ca6db842`
 
-its `ckETH: 30` SUDT
+
 
 # 3. The Nervos Layer 1 address that you passed to withdraw command .
 
